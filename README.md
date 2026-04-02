@@ -94,14 +94,6 @@ I focus on building **real-world AI systems**, exploring **neural architectures*
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KrrishBaghla&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrrishBaghla&layout=compact&theme=radical" />
-</p>
-
----
-
 ## 📫 Connect with Me
 - LinkedIn  
 - Email: krrishb.mc.24@nitj.ac.in  
