@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Krrish+Baghla+👋;AI+%2F+Deep+Learning+Researcher;Math+%26+Computing+@+NIT+Jalandhar;Fingerstyle+Guitarist+🎸" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=Hi+there!+I%27m+Krrish+Baghla+👋;AI+%2F+Deep+Learning+Researcher;Math+%26+Computing+%40+NIT+Jalandhar;Fingerstyle+Guitarist+🎸" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=KrrishBaghla&theme=onedark&column=7&margin-w=15" alt="github profile trophy" />
-  </a>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=KrrishBaghla&theme=onedark&column=7&margin-w=15" alt="github profile trophy" />
+</a>
 </p>
 
 ---
