@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onedark&column=7&margin-w=15" alt="github profile trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=KrrishBaghla&theme=onedark&column=7&margin-w=15" alt="github profile trophy" />
   </a>
 </p>
 
@@ -73,7 +73,7 @@ I specialize in constructing production-grade AI systems, dissecting complex neu
 
 ## 📊 My Contribution Journey
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+<img src="https://raw.githubusercontent.com/KrrishBaghla/KrrishBaghla/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
 ---
