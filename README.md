@@ -80,6 +80,6 @@ I specialize in constructing production-grade AI systems, dissecting complex neu
 
 ## 📫 Connect & Collaborate
 - **Email:** krrishb.mc.24@nitj.ac.in
-- **LinkedIn:** [Your Profile Link Here]
+- **LinkedIn:** https://www.linkedin.com/in/krrish-baghla-860523314/
 
 <p align="center"><i>"Strive not to be a success, but rather to be of value." – Albert Einstein</i></p>
